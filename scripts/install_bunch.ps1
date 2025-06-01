@@ -25,6 +25,8 @@ winget install -e --id TorProject.TorBrowser
 winget install -e --id 7zip.7zip
 # winget install -e --id Microsoft.WindowsTerminal
 
+winget install -e --id GnuWin32.Grep
+winget install -e --id ShiningLight.OpenSSL
 winget install -e --id Git.Git
 # winget install -e --id Microsoft.VisualStudioCode --override '/SILENT /mergetasks="!runcode,addcontextmenufiles,addcontextmenufolders"'
 # winget install -e --id Neovim.Neovim
